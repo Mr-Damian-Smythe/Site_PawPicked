@@ -2,7 +2,7 @@
 layout: post
 title: "A Short Hike Review"
 description: Simple Review Of A Short Hike.
-date: 2025-01-17 00:17:07 -0200
+date: 2025-02-07 13:13:13 +0200
 tags: Game-Review
 ---
 
@@ -11,9 +11,7 @@ tags: Game-Review
 ## Table of Contents
 * Why is it worth your time?
 * Sound design
-* Graphics
 * Cozy factor
-* Scores
 
 ## Why is it worth your time?
 

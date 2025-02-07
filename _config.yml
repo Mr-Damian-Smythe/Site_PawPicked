@@ -42,10 +42,10 @@ social-links:
 
 # plugin: jekyll-seo-tag
 twitter:
-  username: chad_baldwin
+  username: null
   card: summary_large_image
 social:
-  name: Chad Baldwin
+  name: Damian Smythe
   links:
     https://paw-picked.xyz
     https://github.com/Mr-Damian-Smythe
@@ -77,7 +77,7 @@ code_block_max_height: 500px
 home_post_limit: 5
 
 # The github repo that is to be used for looking up comments
-comments_repo: chadbaldwin/chadbaldwin.github.io
+comments_repo: Mr-Damian-Smythe/Site_PawPicked.github.io
 
 defaults:
   - scope:
