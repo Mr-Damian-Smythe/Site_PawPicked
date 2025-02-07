@@ -1,9 +1,9 @@
 theme: default
 header:
-  name: Chad Baldwin
-  suffix: MCSA
+  name: Damian Smythe
+  suffix: 
   display_contact_info: true
-  current_title: Senior Database Developer
+  current_title: Student
   intro: >
     null
 contact:
@@ -22,10 +22,10 @@ sections:
   social_links: false
 social:
   Website:    /
-  GitHub:     https://github.com/chadbaldwin
-  Twitter:    https://twitter.com/chad_baldwin
+  GitHub:     https://github.com/mr-damian-smythe
+  # Twitter:    https://twitter.com/chad_baldwin
   #Dribbble:  https://dribbble.com/chadbaldwin
   #FaceBook:  https://facebook.com/iamchadbaldwin
-  LinkedIn:   https://linkedin.com/in/chadbaldwin
-  #Instagram: https://instagram.com/chad_baldwin
-  #Medium:    https://medium.com/@chad-baldwin
+  # LinkedIn:   https://linkedin.com/in/chadbaldwin
+  # #Instagram: https://instagram.com/chad_baldwin
+  # #Medium:    https://medium.com/@chad-baldwin
