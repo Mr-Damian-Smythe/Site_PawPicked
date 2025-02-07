@@ -1,9 +1,9 @@
 theme: minima
 
-title: Chad's Blog
-author: Chad Baldwin
-email: blog@chadbaldwin.net
-url: https://chadbaldwin.net
+title: Paw Picked
+author: Damian Smythe
+email: damian.smythe@outlook.com
+url: https://paw-picked.xyz
 
 timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
@@ -12,9 +12,9 @@ description: >
   My first blog. Probably no one else will ever read it, but oh well.
 
 # Minima variables
-twitter_username:  chad_baldwin
-github_username:   chadbaldwin
-linkedin_username: chadbaldwin
+# twitter_username:  chad_baldwin
+github_username:   mr-damian-smythe
+# linkedin_username: chadbaldwin
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
