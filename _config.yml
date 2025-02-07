@@ -40,7 +40,7 @@ social-links:
   # PluralSight:     https://app.pluralsight.com/profile/chadbaldwin
   Website:         /
 
-# plugin: jekyll-seo-tag
+plugin: jekyll-seo-tag
 twitter:
   username: chad_baldwin
   card: summary_large_image
