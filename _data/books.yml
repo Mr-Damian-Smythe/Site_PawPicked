@@ -6,20 +6,6 @@
 #   isCurrent: bool - indicating currently reading
 #   completeDate: date of completion
 
-- title: The Accidental Guerrilla: Fighting Small Wars in the Midst of a Big One
-  author: Thomas E Ricks
-  summary: \"David Kilcullen is one of the world's most influential experts on counterinsurgency and modern warfare. A Senior Counterinsurgency Advisor to General David Petraeus in Iraq, his vision of war dramatically influenced America's decision to rethink its military strategy in Iraq and implement "the surge."\"
-  link: https://www.amazon.com/Accidental-Guerrilla-Fighting-Small-Midst/dp/0195368347
-  rating: ⭐⭐⭐⭐⭐
-  completeDate: 2025-01-05
-
-- title: War Dogs: Tales of Canine Heroism, History, and Love
-  author: Rebecca Frankel
-  summary: \"A compelling look at the important role that dogs have played in America's most recent military conflicts, replete with the touching stories of individual dogs and their handlers/soldiers.\"
-  link: https://www.amazon.com/War-Dogs-Canine-Heroism-History-ebook/dp/B00KK4FL3C?ref_=ast_author_dp
-  rating: ⭐⭐⭐⭐⭐
-  completeDate: 2024-12-29
-  
 - title: Operations Anti-Patterns, DevOps Solutions
   author: Jeffery D. Smith
   summary: \"Operations Anti-Patterns, DevOps Solutions shows how to implement DevOps techniques in the kind of imperfect environments most developers work in. Part technology tutorial, part reference manual, and part psychology handbook, this practical guide shows you realistic ways to bring DevOps to your team when you don’t have the flexibility to make sweeping changes in organizational structure.\"
