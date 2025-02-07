@@ -1,0 +1,28 @@
+title: "Paw Picked"
+author: "Damian Smythe"
+description: "" 
+email: "damian.smythe@outlook.com"
+instagram_username: damiandyllansmythe
+#########################################################################################
+######### Nothing below needs to be changed (unless you know what you're doing) #########
+#########################################################################################
+theme: "minima"
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+    
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+titles_from_headings:
+  strip_title: true
+  collections: true
+
+defaults:
+  - scope:
+      path: ""
+      type: post
+    values:
+      tags: Game-Review
